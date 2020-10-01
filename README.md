@@ -1,2 +1,2 @@
 # TrainStuff
-Rozcestník zajímavých odkazů ohledně české železnice a železnice ve střední Evropě.
+Webový rozcestník zajímavých odkazů ohledně české železnice a železnice ve střední Evropě.
